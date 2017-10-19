@@ -11,7 +11,7 @@ Here is some arithmetic:
 
 ```{r}
 x<-5
-y<-6
+y<-
 x^2+y^2 
 ```
 
