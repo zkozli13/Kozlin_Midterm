@@ -1,0 +1,20 @@
+---
+title: "5:30 Section"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### Zac Kozlin 
+### October 15,2017
+
+Here is some arithmetic: 
+```{r}
+x<-5
+y<-6
+x^2+y^2
+```
+
